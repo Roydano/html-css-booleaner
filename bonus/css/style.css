@@ -134,3 +134,40 @@ tbody{
     font-weight: bold;
 
 }
+
+#interessi{
+    text-align: center;
+
+}
+
+.monitor{
+   
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    border: 5px solid white;
+}
+
+.grafico{
+    
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    border: 5px solid white;
+}
+
+.id-img{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    vertical-align: middle;
+    line-height: 250px;
+     text-align: center;
+     text-decoration: underline;
+}
