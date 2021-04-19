@@ -121,3 +121,16 @@ tbody{
 .corsivo{
     font-style: oblique;
 }
+
+/* paragrafo finale */
+
+.finale{
+
+    font-style: oblique;
+}
+
+.evidenziato{
+    text-decoration: underline rgb(44, 93, 165);
+    font-weight: bold;
+
+}
