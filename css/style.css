@@ -1,6 +1,4 @@
-.container{
 
-}
 
 /* header */
 
@@ -52,4 +50,11 @@ h4{
 .dida{
     font-size: 12px;
 }
+
+/* proprietà paragrafo e elenco puntato */
+
+.evidenziato{
+    background-color: yellow;
+}
+
 
