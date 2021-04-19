@@ -70,3 +70,54 @@ h1{
     font-weight: bold;
     font-style: oblique;
 }
+
+/* sezione paragrafo e elenco */
+
+.paragrafo{
+
+    font-size: 20px;
+}
+
+li{
+    font-size: 18px;
+}
+
+/* sezione tabella */
+
+table{
+    width: 100%;
+    text-align: left;
+
+}
+
+thead{
+    background-color: rgb(66, 66, 173);
+    color: white;
+}
+
+tr{
+    width: 25%;
+}
+
+th{
+    font-size: 20px;
+}
+.last{
+    width: 50%;
+}
+
+tbody{
+    background-color: rgb(119, 159, 172);
+}
+
+.bianco{
+    background-color: whitesmoke;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.corsivo{
+    font-style: oblique;
+}
