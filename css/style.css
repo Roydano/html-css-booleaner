@@ -30,6 +30,26 @@ header{
     left: 10px;
 }
 
+/* proprietà sezione foto e dida */
+
 h1{
     font-size: 50px;
 }
+
+h4{
+    color: #808080;
+
+}
+
+.autore{
+    color: #20a9e5;
+}
+
+.data{
+    font-size: 12px;
+}
+
+.dida{
+    font-size: 12px;
+}
+
