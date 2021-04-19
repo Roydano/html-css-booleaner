@@ -1,0 +1,17 @@
+/* formattazione intera pagina */
+
+body{
+    background-color: rgb(170, 197, 223);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+/* formattazione header */
+
+#logo{
+    width: 33%;
+    display:block;
+    margin:0px auto;
+    text-align:center;
+       
+
+}
