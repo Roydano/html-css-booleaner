@@ -57,4 +57,7 @@ h4{
     background-color: yellow;
 }
 
-
+ul{
+    list-style-position: inside;
+    padding-left: 0;
+}
