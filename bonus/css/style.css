@@ -34,3 +34,39 @@ h1{
     font-style: oblique;
     font-size: 15px;
 }
+
+/* formattazione immagini tim */
+
+.contenitore-tim{
+    background-image: url(../img/pattern.png);
+    text-align:center;
+    background-color: rgb(223, 219, 219);
+    height: 100%;
+
+}
+
+
+.img-1{
+    background-image: url(../img/tim-1.jpg);
+    width: 500px;
+    height: 300px;
+    border-radius: 10%;
+    border: 5px solid rgb(255, 255, 255);
+    display: inline-block;
+    
+}
+
+.img-2{
+    background-image: url(../img/tim-2.jpg);
+    width: 500px;
+    height: 300px;
+    border-radius: 10%;
+    border: 5px solid rgb(255, 255, 255);
+    display: inline-block;
+    
+}
+
+.dida{
+    font-weight: bold;
+    font-style: oblique;
+}
