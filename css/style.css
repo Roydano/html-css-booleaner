@@ -1,0 +1,31 @@
+.container{
+
+}
+
+/* header */
+
+
+/* intestazione con pattern */
+header{
+    
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    height: 150px;
+    background-color: #4ea0ff
+
+}
+
+/* contenitore logo */
+#logo-booleaner{
+    
+    height: 100%;
+    width: 300px;
+    
+}
+
+/* misura e posizione logo */
+.logo{
+    position: relative;
+    top: 70px;
+    left: 10px;
+}
