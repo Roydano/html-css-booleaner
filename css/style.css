@@ -61,3 +61,28 @@ ul{
     list-style-position: inside;
     padding-left: 0;
 }
+
+/* proprietò tabella */
+
+table{
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #20a9e5;
+    color: white;
+}
+
+th{
+    width: 25%;
+}
+.last{
+    width: 50%;
+}
+
+.azzurrina{
+    background-color: #b1e5f2;
+
+}
